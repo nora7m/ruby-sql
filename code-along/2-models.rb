@@ -12,6 +12,7 @@ Company.destroy_all
 #   (i.e. full CRUD of company data).
 
 # 1a. check out the schema file
+
 # 1b. check out the model file
 puts "There are #{Company.all.count} companies"
 
